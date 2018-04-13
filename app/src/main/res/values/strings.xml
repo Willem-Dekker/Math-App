@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Math-APP</string>
+    <string name="checkButton">Check Awnser</string>
+    <string name="nextButton">Next question</string>
+    <string name="opperator">+</string>
+    <string name="firstNumberNumber">5</string>
+    <string name="secondNumberNumber">3</string>
+    <string name="equels">=</string>
+</resources>
